@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Awesome SDE</string>
+
+    <string name="facebook_app_id">524842907640924</string>
+    <string name="logged_in">Logged In!</string>
+    <string name="login_error">Error during login</string>
+    <string name="loading">Loading...</string>
+
+</resources>

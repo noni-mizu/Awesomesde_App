@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- For the radial style on the login and register button -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <gradient
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:startColor="#03A9F4"
+        android:endColor="#03A9F4"
+        android:angle="450" />
+
+    <corners
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:radius="20dp" />
+
+    <stroke
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:width="3px" android:color="#ffffff" />
+
+</shape>
